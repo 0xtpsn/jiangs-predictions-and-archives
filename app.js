@@ -237,12 +237,12 @@ const predictions = [
         id: 22,
         title: "The Second American Civil War",
         category: "US Domestic",
-        verdict: "wrong",
-        verdictLabel: "❌ Wrong",
+        verdict: "pending",
+        verdictLabel: "⏳ Pending",
         confidence: "High",
         source: "Geo-Strategy #11",
         quote: "America will descend into civil war... ignited by Trump's re-election and a war with Iran.",
-        analysis: "While political polarization is extreme, there is no civil war. Domestic protests over the Iran conflict have occurred but nothing approaching civil war or institutional breakdown."
+        analysis: "Political polarization is extreme and Trump has been re-elected. While no civil war has occurred yet, the prediction's conditions (re-election + Iran war) are still unfolding."
     },
     {
         id: 23,
@@ -336,12 +336,12 @@ const predictions = [
         id: 31,
         title: "Germany-Russia Rapprochement Will Occur",
         category: "China",
-        verdict: "wrong",
-        verdictLabel: "❌ Wrong",
+        verdict: "pending",
+        verdictLabel: "⏳ Pending",
         confidence: "Medium",
         source: "Civilization #END",
         quote: "Germany and Russia will have a rapprochement... these are going to be the two big geopolitical surprises next five years.",
-        analysis: "Germany has maintained its anti-Russia stance, significantly increased defense spending, and continued supporting Ukraine. No rapprochement whatsoever."
+        analysis: "Germany has maintained its anti-Russia stance so far, but the prediction was framed as a 'next five years' surprise. Geopolitical shifts could still occur as economic pressures mount."
     },
     {
         id: 32,
