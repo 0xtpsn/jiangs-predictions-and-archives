@@ -364,6 +364,61 @@ const predictions = [
         source: "Geo-Strategy #9",
         quote: "Putinism is a concept of continuous warfare for national discipline and strength, contrasting it with consumerism.",
         analysis: "An interpretive framework for understanding Putin's domestic strategy, not a falsifiable prediction."
+    },
+    {
+        id: 34,
+        title: "No Ceasefire or Peace Is Possible in the US-Iran War",
+        category: "US-Iran War",
+        verdict: "pending",
+        verdictLabel: "⏳ Pending",
+        confidence: "Very High",
+        source: "Game Theory #13",
+        quote: "There can be no ceasefire. There can be no truce. There can be no peace because both the American Empire and Iran are fighting for the nature and structure of reality itself.",
+        analysis: "As of March 2026, no ceasefire has been reached between the US and Iran. Jiang frames this as a structural impossibility rather than a diplomatic failure — both sides need to win to maintain their respective systems."
+    },
+    {
+        id: 35,
+        title: "The US-Iran War Ends When the Global Economy Is Destroyed",
+        category: "Global Economics",
+        verdict: "pending",
+        verdictLabel: "⏳ Pending",
+        confidence: "High",
+        source: "Game Theory #13",
+        quote: "This war ends when the global economy is destroyed. Because once the global economy is destroyed, this entire edifice collapses.",
+        analysis: "Jiang argues the war's endpoint is the collapse of the US-led global financial order, not a military victory. The global economy has been strained but not destroyed as of March 2026."
+    },
+    {
+        id: 36,
+        title: "A New Multipolar World Order Will Emerge After the War",
+        category: "Theoretical",
+        verdict: "pending",
+        verdictLabel: "⏳ Pending",
+        confidence: "High",
+        source: "Game Theory #13",
+        quote: "What will happen after this war? Well, a new world will emerge where there are different spheres of influence.",
+        analysis: "Jiang predicts the post-war world will be multipolar with distinct spheres of influence, replacing the current US-dominated unipolar order. This aligns with broader BRICS expansion trends but remains to be seen."
+    },
+    {
+        id: 37,
+        title: "AI Will Replace the US Dollar as the Primary Mechanism of Wealth Extraction",
+        category: "Global Economics",
+        verdict: "pending",
+        verdictLabel: "⏳ Pending",
+        confidence: "Medium",
+        source: "Game Theory #13",
+        quote: "There's actually a war going on for the soul of humanity for the human consciousness between US dollar the old world order and artificial intelligence the new world order.",
+        analysis: "A novel claim framing AI as a successor to the US dollar in structuring global wealth extraction. While AI is reshaping economies, there is no direct evidence it is being designed as a replacement for the dollar-based financial order."
+    },
+    {
+        id: 38,
+        title: "An Elite Civil War Between Parasitic Elites and Counter-Elites",
+        category: "US Domestic",
+        verdict: "partial",
+        verdictLabel: "🔶 Partial",
+        confidence: "High",
+        source: "Game Theory #13",
+        quote: "What's happening is a civil war between the elite, these people, and the counter elite, people who want to take the position and become the parasites.",
+        analysis: "Jiang frames the release of the Epstein files and current political turmoil as evidence of an intra-elite power struggle. The Trump movement's anti-establishment posture and exposure of establishment networks lends some support to this framework."
     }
 ];
 
@@ -502,6 +557,7 @@ const lectures = [
     { title: "The Law of Asymmetry", series: "game-theory", number: "#10", hasPredictions: false },
     { title: "The Law of Escalation", series: "game-theory", number: "#11", hasPredictions: false },
     { title: "The Law of Eschatological Convergence", series: "game-theory", number: "#12", hasPredictions: false },
+    { title: "Epstein's World", series: "game-theory", number: "#13", hasPredictions: true },
 
     // Great Books Series
     { title: "Secrets of the Universe", series: "great-books", number: "#1", hasPredictions: false },
