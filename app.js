@@ -416,9 +416,53 @@ const predictions = [
         verdict: "partial",
         verdictLabel: "🔶 Partial",
         confidence: "High",
-        source: "Game Theory #13",
+        source: "Game Theory #13, Game Theory #14",
         quote: "What's happening is a civil war between the elite, these people, and the counter elite, people who want to take the position and become the parasites.",
-        analysis: "Jiang frames the release of the Epstein files and current political turmoil as evidence of an intra-elite power struggle. The Trump movement's anti-establishment posture and exposure of establishment networks lends some support to this framework."
+        analysis: "Jiang frames the release of the Epstein files and current political turmoil as evidence of an intra-elite power struggle. The Trump movement's anti-establishment posture and exposure of establishment networks lends some support to this framework. In GT #14, he further develops this as a conflict between Wall Street (finance/Democrats) and Silicon Valley (AI/tech/Republicans) over government bailouts."
+    },
+    {
+        id: 39,
+        title: "Internal Civil Conflicts Drive Assassination Intelligence",
+        category: "US-Iran War",
+        verdict: "unfalsifiable",
+        verdictLabel: "🔮 Unfalsifiable",
+        confidence: "High",
+        source: "Game Theory #14",
+        quote: "These different factions are providing intelligence to their enemies in order to eliminate their internal enemies.",
+        analysis: "Jiang argues that the reason both Israel and Iran are so effectively killing each other's leaders is not primarily through electronic surveillance (SIGINT), but through human intelligence (HUMINT) provided by rival internal factions. This is a speculative interpretation — plausible but unverifiable."
+    },
+    {
+        id: 40,
+        title: "The World Will Become More Theocratic (Iran, Israel, and America)",
+        category: "Theoretical",
+        verdict: "pending",
+        verdictLabel: "⏳ Pending",
+        confidence: "High",
+        source: "Game Theory #14",
+        quote: "Iran becomes much more theocratic and extreme and nationalistic. Israel abandons democracy and embraces theocracy. America will also abandon democracy and embrace theocracy because that is a general trend of the world.",
+        analysis: "Jiang predicts a global shift from the secular financial order to a nationalist theocratic order over the next 5-10 years. Religious nationalism has strengthened in all three countries, but full theocratic transformation has not occurred."
+    },
+    {
+        id: 41,
+        title: "The Private Credit Bubble and AI Bubble Will Both Burst",
+        category: "Global Economics",
+        verdict: "pending",
+        verdictLabel: "⏳ Pending",
+        confidence: "High",
+        source: "Game Theory #14",
+        quote: "Both finance and AI are bubbles that will burst. They're parasites... there's a private credit bubble of about $2 trillion... and the AI bubble where companies just lend money to each other.",
+        analysis: "Jiang identifies two major financial bubbles — the ~$2 trillion private credit market and the AI investment bubble — arguing both are sustained by moral hazard and expectation of government bailouts. As of March 2026, both sectors show signs of stress but neither has burst."
+    },
+    {
+        id: 42,
+        title: "A Global Economic Depression Is Coming",
+        category: "Global Economics",
+        verdict: "pending",
+        verdictLabel: "⏳ Pending",
+        confidence: "High",
+        source: "Game Theory #14",
+        quote: "The world is headed towards an economic depression... a splintering, a rupture in the world. And so you're not going to be able to afford to fly to Maldives for vacation. There will be no avocados in the supermarket.",
+        analysis: "Jiang predicts a severe global economic depression driven by the convergence of war, energy disruption, and financial bubble bursts. While the global economy has been strained, a full depression has not materialized as of March 2026."
     }
 ];
 
@@ -558,6 +602,7 @@ const lectures = [
     { title: "The Law of Escalation", series: "game-theory", number: "#11", hasPredictions: false },
     { title: "The Law of Eschatological Convergence", series: "game-theory", number: "#12", hasPredictions: false },
     { title: "Epstein's World", series: "game-theory", number: "#13", hasPredictions: true },
+    { title: "The Law of Proximity", series: "game-theory", number: "#14", hasPredictions: true },
 
     // Great Books Series
     { title: "Secrets of the Universe", series: "great-books", number: "#1", hasPredictions: false },
